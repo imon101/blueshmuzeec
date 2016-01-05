@@ -1,0 +1,5 @@
+Smart Mobile Music Player
+
+Blueshmuzeec sendiri adalah sebuah singkatan yang dimodifikasi, yaitu Bluetooth-Sharing Music. Nama Blueshmuzeec ini sebenernya diambil dari ide awal pembuatan Tugas Akhir ini, idenya simple sih … yaitu sebuah aplikasi yang bisa memudahkan pemilik Handphone untuk mendengarkan koleksi musiknya dan saling bertukar musik antar pengguna aplikasi ini kapan saja dan dimana saja.
+
+Aplikasi ini memanfaatkan tren dan tekonologi yang sedang berkembang saat ini, yaitu handphone dengan kemampuan Mp3 Player dan konektifitas bluetooth. Karena seperti yang kita ketahui, saat ini handphone-handphone dengan kemampuan untuk memutar Mp3 player sangat banyak. Dengan tujuan kepraktisan. 1 gadget dengan multi fitur. Sedangkan untuk konektifitas bluetooth ini dipilih karena lebih banyak handphone yang support bluetooth daripada support Wi-Fi. Sedangkan untuk infrared, tidak dipilih karena tidak mampu memberikan layanan konektifitas data dengan jarak yang lumayan jauh.
